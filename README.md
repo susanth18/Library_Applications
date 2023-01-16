@@ -1,8 +1,14 @@
 # Library_Application
  
 In this application, there are three different users with different previleges. In the normal registration, the default user access will be of Publisher type.
+
+
 Admin username: Sus_Admin
+
+
 Password: 1811
+
+
 You can access the admin dashboard and create different users with three different previleges.
 
 1) Admin - Will have the ability to add or delete users, books, can give controls to other users
