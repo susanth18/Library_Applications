@@ -1,6 +1,6 @@
 # Library_Application
  
-In this application, there are three different users with different previleges. In the normal registration, the default user access will be of Publisher type.
+In this full fledged application, Basic CRUD operations were implemented and there are three different users with different previleges. In the normal registration, the default user access will be of Publisher type.
 
 
 Admin username: Sus_Admin
